@@ -29,7 +29,7 @@ struct LocationLanding: View {
     @State private var expanded = true
     var body: some View {
         VStack(alignment: .center) {
-            Text("**Welcome to**")
+            Text("**Welcom to**")
                 .font(.largeTitle)
                 .foregroundColor(Color(red: 0.375, green: 0.425, blue: 0.217))
                 .padding()
